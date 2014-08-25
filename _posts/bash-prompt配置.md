@@ -2,6 +2,7 @@ title: bash_prompt配置
 date: 2012-04-03 00:10
 tags: bash
 ---
+<!-- more -->
 **首先就看下最简单的PS1环境变量吧，我的设置效果如下**
 
 ![bash](http://i1192.photobucket.com/albums/aa325/kongpo0412/ScreenShot2012-03-14at73718PM.png)
@@ -108,4 +109,3 @@ DIR_STICKY
 DIR_WO_STICKY
 ```
 颜色的话，大写就是粗体，小写就是普通
-

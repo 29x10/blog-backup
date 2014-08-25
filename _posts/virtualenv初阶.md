@@ -2,6 +2,7 @@ title: virtualenv初阶
 date: 2012-04-03 16:27
 tags: python
 ---
+<!-- more -->
 ###virtualenv
 类似java下面的maven
 

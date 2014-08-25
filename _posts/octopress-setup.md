@@ -2,6 +2,7 @@ title: octopress搭建详解(MacOSX&amp;&amp;Fedora)
 date: 2012-04-04 17:43
 tags: octopress
 ---
+<!-- more -->
 ### 最开始是在ubuntu下尝试的
 最开始的尝试是在mac本子上的，但是因为gcc是llvm的，虽然我不清楚那代表什么，我只是知道rvm编译不了 llvm确实恶心，像之前的cxOracle的编译就是，折腾死我了 最后想想还是在parallels desktop上面部署一个ubuntu来折腾好了
 ``` sh

@@ -4,6 +4,7 @@ tags:
 - markdown
 - emacs
 ---
+<!-- more -->
 ###markdown插件
 先讲一点啊，markdown的时候强烈建议不要用`<br />`，宁愿多敲回车
 ``` sh

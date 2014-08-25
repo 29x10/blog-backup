@@ -2,6 +2,7 @@ title: custom service not working
 date: 2012-04-05 08:41
 tags: addthis
 ---
+<!-- more -->
 i have read this
 in order to have renren.com working
 [custom-service](http://support.addthis.com/customer/portal/articles/381245-custom-services)
@@ -17,7 +18,7 @@ i convert something like this
 	  }
 	</script>
 
-	<a href="http://widget.renren.com/dialog/share" 
+	<a href="http://widget.renren.com/dialog/share"
 	   class="addthis_button_widget.renren.com"></a>
 ```
 

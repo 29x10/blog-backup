@@ -2,6 +2,7 @@ title: virtualenv进阶之virtualenvwrapper
 date: 2012-04-03 20:52
 tags: python
 ---
+<!-- more -->
 先贴官网吧，一般不好找[传送门](http://www.doughellmann.com/docs/virtualenvwrapper/)
 ``` sh
 sudo pip install virtualenvwrapper

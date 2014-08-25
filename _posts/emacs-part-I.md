@@ -4,6 +4,7 @@ tags:
 - emacs
 - python
 ---
+<!-- more -->
 感谢<http://www.cnblogs.com/coderzh/archive/2009/12/26/emacspythonide.html>
 提供了技术支持
 

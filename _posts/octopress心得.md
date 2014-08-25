@@ -2,6 +2,7 @@ title: octopress心得
 date: 2012-04-05 19:57
 tags: octopress
 ---
+<!-- more -->
 ###第一个问题，人人分享
 addthis不支持人人
 

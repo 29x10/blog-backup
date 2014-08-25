@@ -2,6 +2,7 @@ title: bash进阶
 date: 2012-04-03 00:51
 tags: bash
 ---
+<!-- more -->
 ###grep高亮关键词
 ``` sh
 alias grep='grep --color=always'

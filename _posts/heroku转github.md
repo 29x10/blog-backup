@@ -2,6 +2,7 @@ title: heroku转github
 date: 2012-04-07 22:22
 tags: octopress
 ---
+<!-- more -->
 先说几个问题吧，在墙外还好，速度都很理想，但是墙内的话
 
 1. twitter的bar不能显示,但仍然会去加载，方便人访问还是去掉了展示

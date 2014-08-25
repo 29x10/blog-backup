@@ -4,6 +4,7 @@ tags:
 - docker
 - gitlab
 ---
+<!-- more -->
 ``` bash 准备EPEL
 wget http://ftp.riken.jp/Linux/fedora/epel/6/x86_64/epel-release-6-8.noarch.rpm
 rpm -Uvh epel-release-6-8.noarch.rpm

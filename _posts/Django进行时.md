@@ -4,6 +4,7 @@ tags:
 - django
 - python
 ---
+<!-- more -->
 可根据需求调整32位还是64位python
 
 {% codeblock switch to python 32-bit mode lang:applescript %}
@@ -54,7 +55,4 @@ sudo easy_install MySQL-python
 
 ``` sh edit bash_profile
 export DYLD_LIBRARY_PATH=/usr/local/mysql/lib/
-``` 
-
-
-
+```

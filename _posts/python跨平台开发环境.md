@@ -5,7 +5,7 @@ tags:
 - vagrant
 - virtualbox
 ---
-
+<!-- more -->
 ##起因
 
 ###windows

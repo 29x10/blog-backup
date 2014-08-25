@@ -4,6 +4,7 @@ tags:
 - emacs
 - python
 ---
+<!-- more -->
 ###pycomplete插件
 
 [官方网站](http://www.rwdev.eu/articles/emacspyeng)
@@ -94,10 +95,10 @@ sudo python setup.py install
      (font-lock-keyword-face ((t (:foreground "#FBDE2D"))))
      (font-lock-preprocessor-face ((t (:foreground "Aquamarine"))))
      (font-lock-reference-face ((t (:foreground "SlateBlue"))))
- 
+
      (font-lock-regexp-grouping-backslash ((t (:foreground "#E9C062"))))
      (font-lock-regexp-grouping-construct ((t (:foreground "red"))))
- 
+
      (font-lock-string-face ((t (:foreground "#61CE3C"))))
      (font-lock-type-face ((t (:foreground "#8DA6CE"))))
      (font-lock-variable-name-face ((t (:foreground "#FF6400"))))
