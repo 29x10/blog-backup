@@ -5,9 +5,7 @@ tags:
 - gitlab
 - gitlab-ci
 ---
-
 <!-- more -->
-
 ##变化
 没有DNS，因为考虑到通讯的问题，所有server_name均改为IP
 
